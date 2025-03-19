@@ -1,0 +1,5 @@
+Summary Report:
+In the last 7 days, total emissions were 8.11 kg CO2.
+Total emissions over 30 days: 36.67 kg CO2.
+3 anomaly days were detected.
+Suggested Action: Investigate the anomaly days for unusual travel patterns or data errors. Consider strategies to reduce emissions on high-output days.

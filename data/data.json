@@ -1,0 +1,5126 @@
+[
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-18T12:43:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-18T08:44:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-18T12:24:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-19T08:07:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-19T18:00:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-19T08:11:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-20T08:09:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-20T08:17:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-20T12:46:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-21T12:22:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-21T08:30:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-21T12:30:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-22T12:05:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-22T08:33:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-22T12:50:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-23T08:04:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-23T12:55:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-23T08:38:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-24T18:45:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-24T12:30:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-24T18:03:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-25T12:45:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-25T12:09:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-25T18:25:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-26T18:39:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-26T12:57:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-26T08:40:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-27T08:34:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-27T12:26:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-27T12:04:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-28T12:03:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-28T18:29:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-28T08:47:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-29T08:10:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-29T18:07:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-29T08:36:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-30T08:10:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-30T18:21:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-30T12:25:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-31T08:06:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-31T18:34:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-01-31T18:47:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-01T12:23:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-01T08:29:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-01T18:22:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-02T08:54:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-02T12:42:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-02T12:33:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-03T18:00:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-03T12:46:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-03T12:32:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-04T12:42:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-04T08:47:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-04T08:22:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-05T12:05:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-05T12:25:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-05T08:28:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-06T18:16:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-06T08:23:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-06T18:22:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-07T18:02:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-07T12:46:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-07T12:07:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-08T18:42:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-08T12:23:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-08T12:00:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-09T18:12:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-09T08:18:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-09T08:55:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-10T18:36:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-10T12:00:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-10T18:41:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-11T18:05:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-11T12:02:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-11T08:33:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-12T18:26:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-12T12:09:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-12T18:56:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-13T08:43:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-13T18:08:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-13T18:12:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-14T12:39:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-14T18:39:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-14T08:24:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-15T18:38:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-15T18:06:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-15T18:24:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-16T08:37:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-16T18:07:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-16T18:22:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-17T08:49:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-17T12:14:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-17T18:06:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-18T12:29:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-18T08:37:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-18T12:31:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-19T18:01:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-19T12:33:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-19T08:11:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-20T12:25:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-20T08:55:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-20T18:11:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-21T18:52:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-21T08:24:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-21T12:17:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-22T18:01:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-22T08:25:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-22T12:52:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-23T12:05:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-23T12:07:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-23T12:36:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-24T18:39:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-24T18:54:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-24T08:22:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-25T08:13:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-25T18:59:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-25T12:48:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-26T08:50:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-26T12:26:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-26T12:40:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-27T12:42:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-27T18:47:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-27T18:17:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-28T12:37:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-28T12:12:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-02-28T12:12:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-01T08:32:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-01T12:43:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-01T18:40:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-02T18:23:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-02T18:25:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-02T12:06:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-03T08:43:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-03T12:56:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-03T12:19:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-04T18:04:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-04T18:03:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-04T08:14:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-05T08:58:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-05T08:31:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-05T18:52:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-06T08:28:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-06T18:58:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-06T18:28:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-07T18:17:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-07T08:02:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-07T08:01:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-08T18:13:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-08T18:53:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-08T18:13:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-09T12:10:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-09T08:30:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-09T12:47:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-10T12:45:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-10T12:52:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-10T12:05:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-11T08:00:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-11T12:57:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-11T18:40:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-12T12:56:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-12T08:50:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-12T12:30:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-13T18:51:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-13T12:27:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-13T18:03:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-14T18:35:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-14T08:29:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-14T08:14:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-15T18:33:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-15T12:24:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-15T18:11:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-16T18:47:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-16T08:25:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-16T12:38:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-17T12:42:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-17T12:34:00Z",
+        "transportMode": "tram",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.16034222318236857
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-17T08:16:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-18T08:50:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-18T18:42:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_2",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-18T12:40:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-19T12:26:00Z",
+        "transportMode": "train",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.2004277789779607
+    },
+    {
+        "user_id": "user_3",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-19T18:48:00Z",
+        "transportMode": "subway",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.24051333477355286
+    },
+    {
+        "user_id": "user_1",
+        "startingAddress": "Brandenburg Gate",
+        "destinationAddress": "East Side Gallery",
+        "dateTime": "2025-03-19T08:50:00Z",
+        "transportMode": "bus",
+        "fromStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900100025",
+                    "latitude": 52.51651,
+                    "longitude": 13.381936
+                }
+            }
+        ],
+        "toStops": [
+            {
+                "location": {
+                    "type": "location",
+                    "id": "900120544",
+                    "latitude": 52.505957,
+                    "longitude": 13.438388
+                }
+            }
+        ],
+        "emission_kg": 0.32068444636473714
+    }
+]
