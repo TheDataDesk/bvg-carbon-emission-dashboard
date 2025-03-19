@@ -177,3 +177,16 @@ st.markdown(f"**Total Emissions:** {total_emission:.2f} kg CO₂")
 st.markdown(f"**Last 7 Days Emissions:** {daily_recent:.2f} kg CO₂")
 st.markdown(f"**Anomaly Days Detected:** {anomalies_count}")
 st.markdown(f"**Carbon Offset Estimate:** ${offset_cost:.2f} *(at $0.01 per kg CO₂)*")
+
+st.markdown("""
+    <hr>
+    <div style="text-align: center; font-size: 12px; color: #777;">
+        <h4>Contact</h4>
+        <p>
+            <a href="https://www.linkedin.com/in/sirishajp/" target="_blank">LinkedIn</a> |
+            <a href="https://github.com/TheDataDesk" target="_blank">GitHub</a> |
+            <a href="https://thedatadesk.github.io/sirishaportfolio/" target="_blank">Portfolio</a>
+        </p>
+        <p>Developed by Sirisha Padmasekhar (TheDataDesk)</p>
+    </div>
+    """, unsafe_allow_html=True)
